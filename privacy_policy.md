@@ -1,5 +1,8 @@
+# Privacy Policy
+*Last updated: August 23, 2025*
+
 ## 1. Introduction
-Menu Translator ("we", "our", or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application."
+Menu Translator ("we", "our", or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## 2. Information We Collect
 
@@ -31,7 +34,7 @@ With your consent
                     
                    
 ## 5. Data Storage and Security
-We implement industry-standard security measures to protect your information. Your data is encrypted in transit and at rest. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security."             
+We implement industry-standard security measures to protect your information. Your data is encrypted in transit and at rest. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.             
 ## 6. Image Processing
 Photos you upload are processed to extract and translate text. Images may be temporarily stored on secure servers during processing. We do not use your images for any purpose other than providing translation services.
                     
@@ -67,8 +70,8 @@ Our service is not intended for children under 13 years of age. We do not knowin
 Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your information during such transfers.
                     
 ## 13. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy in the app and updating the "Last updated" date
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy in the app and updating the "Last updated" date.
 
 ## 14. Contact Us
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at myappspt2025@gmail.com
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at myappspt2025@gmail.com.
 
